@@ -1,8 +1,7 @@
 # PracticeCar
-An object oriented exercise creating different class components of a car object. Each having different states and behaviors.
+RevaturePro - Practice coding in object-oriented Java with Car object class components.
 
-## RevaturePro - Practice Coding in Java!
-Instructions
+### Instructions
 You've just received a crash course in Java. You may be completely new to this, or you may have only learned one or two new things. In any case, it's key that you cement your newfound knowledge with practice.
 
 Now we're going to take some time to practice writing some simple Java programs. In doing so, you will become familiar with Eclipse and how to run your applications.
